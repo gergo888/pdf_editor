@@ -5,23 +5,23 @@ The application is built with Python. It uses pikepdf for low-level file process
 
 ## Running the application
 
-Clone the repository:
+Clone the repository:\
 `$ git clone https://github.com/gergo888/pdf_editor.git`
 
-Enter the repository's root directory:
+Enter the repository's root directory:\
 `$ cd pdf_editor`
 
-Create a virtual environment:
+Create a virtual environment:\
 `$ python3 -m venv venv`
 
-Activate the virtual environment:
+Activate the virtual environment:\
 `$ source venv/bin/activate`
 
-Install the requirements:
+Install the requirements:\
 `$ pip install -r req.txt`
 
-Enter the source directory:
+Enter the source directory:\
 `$ cd src`
 
-Start the application:
+Start the application:\
 `$ python3 -m pdf_editor`
